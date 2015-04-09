@@ -1,3 +1,1 @@
-# CheapBeer
-
-test project
+# CheapBeer a [Sails](http://sailsjs.org) application
